@@ -1,7 +1,7 @@
 # m2-hw2-Patitucci-Julia
 MMC5277-Web Design Principles
 
-# Who am I?
+# Who Am I?
 My name is Julia but some people call me Jules. No, I do not have a preference. I am 24 and am originally from Orlando. I have my Bachelor's degree from UF in Public relations and I minored in Innovation and Art History.
 I moved to Chicago after I graduated undergrad and live here with my 2 dogs: Nova and Atlas!
 
@@ -15,3 +15,6 @@ Some of my favorite books include:
 - The Ballad of Never After by Stephanie Garber (book 2 in a series)
 - The Song of Achilles by Madeline Miller
 - Before the Coffee Gets Cold by Toshikazu Kawaguchi
+
+## What's my ideal future?
+I am on the audience analytics track in this degree and with that I hope I can work with a company and analyze their data to help them achieve their goals. Ideally, I would love to work in the publishing or fashion industry. 
