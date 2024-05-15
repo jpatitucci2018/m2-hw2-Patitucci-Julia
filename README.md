@@ -17,4 +17,4 @@ Some of my favorite books include:
 - Before the Coffee Gets Cold by Toshikazu Kawaguchi
 
 ## What's my ideal future?
-I am on the audience analytics track in this degree and with that I hope I can work with a company and analyze their data to help them achieve their goals. Ideally, I would love to work in the publishing or fashion industry. 
+I am on the audience analytics track in this degree and with that I hope I can work with a company and analyze their data to help them achieve their goals. I would prefer to work with readily available data such as sales or social media data. I am not particularly interested in the research side of my track. I am hoping that by taking classes such as this one I can obtain skills to make me a more well-rounded candidate. Ideally, I would love to work in publishing industry. However, I know how hard that can be to break into and thus I am also interested in the fashion or entertainment industries. 
