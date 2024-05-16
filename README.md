@@ -2,8 +2,7 @@
 MMC5277-Web Design Principles
 
 # Who Am I?
-My name is Julia but some people call me Jules. No, I do not have a preference. I am 24 and am originally from Orlando. I have my Bachelor's degree from UF in Public relations and I minored in Innovation and Art History.
-I moved to Chicago after I graduated undergrad and live here with my 2 dogs: Nova and Atlas!
+My name is Julia but some people call me Jules. No, I do not have a preference. I am 24 and am originally from Orlando. I have my Bachelor's degree from UF in Public relations and I minored in Innovation and Art History. I moved to Chicago after I graduated undergrad and live here with my 2 dogs: Nova and Atlas!
 
 ![Atlas and Nova](https://github.com/jpatitucci2018/m2-hw2-Patitucci-Julia/assets/169549608/c441789b-1083-44e7-b212-e6ef2af9c28b)
 
